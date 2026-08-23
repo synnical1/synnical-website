@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.*
+!.env.example
+*.log
+db/*.db
+db/*.db-journal
+prisma/db/*.db
+prisma/db/*.db-journal
+prisma/prisma/
+uploads/*
+!uploads/.gitkeep
+!prisma/db/.gitkeep
+.DS_Store
+tsconfig.tsbuildinfo
+
+# Stratus cloud-gaming API — sites.json contains live api keys.
+stratus/sites.json
