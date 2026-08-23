@@ -1,0 +1,3 @@
+{
+  "/api/quotes/save/route": "app/api/quotes/save/route.js"
+}

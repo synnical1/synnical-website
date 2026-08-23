@@ -1,0 +1,8 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/friends/remove/route.js")
+R.c("server/chunks/[root-of-the-server]__0qzgk72._.js")
+R.c("server/chunks/_1zc235b._.js")
+R.c("server/chunks/[root-of-the-server]__15bjnu5._.js")
+R.c("server/chunks/node_modules_next_1zc5q0a._.js")
+R.c("server/chunks/_next-internal_server_app_api_friends_remove_route_actions_0smwj05.js")
+R.m(89378)
+module.exports=R.m(89378).exports

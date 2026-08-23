@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,58953,e=>{"use strict";var o=e.i(18050),r=e.i(48286);e.s(["GeForceNowPanel",0,function(){return(0,o.jsx)(r.BrowserPanel,{initialUrl:"https://play.geforcenow.com/",embedded:!0,embeddedLabel:"GeForce NOW"})}])}]);

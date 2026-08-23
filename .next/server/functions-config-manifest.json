@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/ai/chat": {
+      "maxDuration": 120
+    },
+    "/api/features/automations": {},
+    "/api/features/chat": {},
+    "/api/features/creator": {},
+    "/api/features/developer": {},
+    "/api/features/friends": {},
+    "/api/features/games/screenshot": {},
+    "/api/features/games/screenshot/[id]": {},
+    "/api/features/health": {},
+    "/api/features/identity": {},
+    "/api/features/market": {},
+    "/api/features/media/profiles/upload": {},
+    "/api/features/music-social": {},
+    "/api/features/os/wallpaper": {},
+    "/api/features/presence": {},
+    "/api/features/profile": {},
+    "/api/features/search": {},
+    "/api/features/spaces": {},
+    "/api/moderation/media": {},
+    "/api/music/audius/discover": {},
+    "/api/music/audius/search": {},
+    "/api/music/audius/stream/[id]": {},
+    "/api/music/bridge/search": {},
+    "/api/music/bridge/stream": {},
+    "/api/music/cobalt/resolve": {},
+    "/api/music/providers": {},
+    "/api/profile/[id]": {},
+    "/api/profile/connections": {},
+    "/api/profile/upload": {},
+    "/api/reports": {},
+    "/api/synnflix/details": {},
+    "/api/synnflix/home": {},
+    "/api/synnflix/search": {},
+    "/api/synnflix/season": {},
+    "/api/uploads/[...path]": {},
+    "/api/voice/upload": {}
+  }
+}

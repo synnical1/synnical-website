@@ -1,0 +1,3 @@
+{
+  "/api/music/audius/stream/[id]/route": "app/api/music/audius/stream/[id]/route.js"
+}

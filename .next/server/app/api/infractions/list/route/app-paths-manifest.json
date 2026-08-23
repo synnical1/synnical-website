@@ -1,0 +1,3 @@
+{
+  "/api/infractions/list/route": "app/api/infractions/list/route.js"
+}
